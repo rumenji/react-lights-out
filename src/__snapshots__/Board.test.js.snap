@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches a board snapshot 1`] = `
+<DocumentFragment>
+  <h2
+    class="won"
+  >
+    You won!
+  </h2>
+</DocumentFragment>
+`;
